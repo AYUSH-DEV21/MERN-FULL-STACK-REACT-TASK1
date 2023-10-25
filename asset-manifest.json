@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MERN-FULL-STACK-REACT-TASK1.1/static/css/main.b91cc405.css",
-    "main.js": "/MERN-FULL-STACK-REACT-TASK1.1/static/js/main.db569fae.js",
-    "static/js/787.3a039655.chunk.js": "/MERN-FULL-STACK-REACT-TASK1.1/static/js/787.3a039655.chunk.js",
-    "index.html": "/MERN-FULL-STACK-REACT-TASK1.1/index.html",
-    "main.b91cc405.css.map": "/MERN-FULL-STACK-REACT-TASK1.1/static/css/main.b91cc405.css.map",
-    "main.db569fae.js.map": "/MERN-FULL-STACK-REACT-TASK1.1/static/js/main.db569fae.js.map",
-    "787.3a039655.chunk.js.map": "/MERN-FULL-STACK-REACT-TASK1.1/static/js/787.3a039655.chunk.js.map"
+    "main.css": "/MERN-FULL-STACK-REACT-TASK1/static/css/main.b91cc405.css",
+    "main.js": "/MERN-FULL-STACK-REACT-TASK1/static/js/main.f07ab1c2.js",
+    "static/js/787.3a039655.chunk.js": "/MERN-FULL-STACK-REACT-TASK1/static/js/787.3a039655.chunk.js",
+    "index.html": "/MERN-FULL-STACK-REACT-TASK1/index.html",
+    "main.b91cc405.css.map": "/MERN-FULL-STACK-REACT-TASK1/static/css/main.b91cc405.css.map",
+    "main.f07ab1c2.js.map": "/MERN-FULL-STACK-REACT-TASK1/static/js/main.f07ab1c2.js.map",
+    "787.3a039655.chunk.js.map": "/MERN-FULL-STACK-REACT-TASK1/static/js/787.3a039655.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b91cc405.css",
-    "static/js/main.db569fae.js"
+    "static/js/main.f07ab1c2.js"
   ]
 }
